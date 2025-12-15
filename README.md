@@ -6,12 +6,13 @@
 
 The project adopts a modular design consisting of four core components:
 
-```text
+
 Arthropod-Pesticide-Resistance-Scholar/
 ├── CLS/          # Text Classification Module (Classification BERT)
 ├── NER/          # Named Entity Recognition Module (NER BERT)
 ├── LLM/          # Case Extraction Module (LLM Case Extraction)
 └── DATA/         # Core Data & Resources (Datasets)
+
 
 🚀 Module Details
 1. DATA/ - Datasets & Resources
