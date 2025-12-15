@@ -1,36 +1,61 @@
-# Arthropod Pesticide Resistance Scholar
+# Arthropod Pesticide Resistance Scholar (APRS)
 
-#### Description
-{**When you're done, you can delete the content in this README and update the file with details for others getting started with your repository**}
+**Arthropod Pesticide Resistance Scholar** is a Natural Language Processing (NLP) toolkit dedicated to the study of arthropod (pest) pesticide resistance. This project aims to build an automated pipeline that combines the reasoning capabilities of Large Language Models (LLMs) with the extraction precision of fine-tuned BERT models to automatically filter, identify, and structure resistance-related data from massive amounts of academic literature.
 
-#### Software Architecture
-Software architecture description
+## 📂 Directory Structure
 
-#### Installation
+The project adopts a modular design consisting of four core components:
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+```text
+Arthropod-Pesticide-Resistance-Scholar/
+├── CLS/          # Text Classification Module (Classification BERT)
+├── NER/          # Named Entity Recognition Module (NER BERT)
+├── LLM/          # Case Extraction Module (LLM Case Extraction)
+└── DATA/         # Core Data & Resources (Datasets)
 
-#### Instructions
+🚀 Module Details
+1. DATA/ - Datasets & Resources
+This folder serves as the core data repository, storing all resources required for model training and evaluation.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+Training Data: Contains manually annotated text used for fine-tuning the CLS (Classification) and NER (Entity Recognition) models.
 
-#### Contribution
+Few-shot Examples: Provides sample data for the LLM module
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+2. CLS/ - Classification
+A BERT-based binary classification model acting as the system's "filter".
+
+Core Task: Relevance Filtering.
+
+Function: Automatically analyzes literature abstracts or full texts to accurately distinguish whether a document belongs to the "pesticide resistance" research domain.
+
+Application: Rapidly filters out irrelevant non-resistance texts when processing massive literature streams, retaining only high-quality data for downstream modules.
+
+3. NER/ - Named Entity Recognition
+A BERT-based sequence labeling model designed specifically for the field of insect toxicology.
+
+Core Task: Entity Extraction.
+
+Function: Precisely locates and extracts key entities within the unstructured text (e.g., specific pest species, insecticide chemical names, target genes, mutation sites), providing structured anchors for the LLM.
+
+4. LLM/ - Case Extraction
+Leveraging the strong semantic understanding and logical reasoning capabilities of Large Language Models (LLMs), this module serves as the central hub for information synthesis.
+
+Core Task: Event Structuring.
+
+Function: Combines the filtering results from CLS and the entity information from NER. It uses Prompt Engineering to guide the LLM in extracting complete "Resistance Events."
+
+Output Goal: Synthesizes scattered information into structured entries
+
+🛠️ Workflow
+
+Filter: The CLS module filters out non-resistance-related literature.
+
+Extract: The NER module identifies key biological and chemical entities in the retained texts.
+
+Synthesize: The LLM module integrates the context to generate the final structured resistance report.
+
+👤 Author
+Wu Hongxin College of Plant Protection, South China Agricultural University
+wuhongxinscau@foxmail.com
 
 
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
