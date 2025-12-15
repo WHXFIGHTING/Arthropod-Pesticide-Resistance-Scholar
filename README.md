@@ -12,7 +12,7 @@ Arthropod-Pesticide-Resistance-Scholar/
 ├── NER/          # Named Entity Recognition Module (NER BERT)
 ├── LLM/          # Case Extraction Module (LLM Case Extraction)
 └── DATA/         # Core Data & Resources (Datasets)
-```text
+```
 
 🚀 Module Details
 1. DATA/ - Datasets & Resources
