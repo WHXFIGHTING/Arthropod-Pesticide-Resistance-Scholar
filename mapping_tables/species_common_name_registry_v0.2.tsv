@@ -1,0 +1,191 @@
+common_name	species_name	confidence	note
+diamondback moth	Plutella xylostella	strict	widely fixed crop pest common name
+house fly	Musca domestica	strict	widely fixed medical/veterinary pest common name
+fall armyworm	Spodoptera frugiperda	strict	widely fixed crop pest common name
+beet armyworm	Spodoptera exigua	strict	widely fixed crop pest common name
+oriental fruit fly	Bactrocera dorsalis	strict	widely fixed fruit fly common name
+western flower thrips	Frankliniella occidentalis	strict	widely fixed thrips pest common name
+Colorado potato beetle	Leptinotarsa decemlineata	strict	widely fixed crop pest common name
+red palm weevil	Rhynchophorus ferrugineus	strict	widely fixed palm pest common name
+two-spotted spider mite	Tetranychus urticae	strict	widely fixed mite pest common name
+twospotted spider mite	Tetranychus urticae	strict	spelling variant of two-spotted spider mite
+green peach aphid	Myzus persicae	strict	widely fixed aphid pest common name
+cotton aphid	Aphis gossypii	strict	widely fixed aphid pest common name
+brown planthopper	Nilaparvata lugens	strict	widely fixed rice planthopper common name
+small brown planthopper	Laodelphax striatellus	strict	widely fixed rice planthopper common name
+white-backed planthopper	Sogatella furcifera	strict	widely fixed rice planthopper common name
+whitebacked planthopper	Sogatella furcifera	strict	spelling variant of white-backed planthopper
+German cockroach	Blattella germanica	strict	widely fixed urban pest common name
+common bed bug	Cimex lectularius	strict	more specific variant of bed bug
+silverleaf whitefly	Bemisia tabaci	strict	widely fixed whitefly pest common name
+sweetpotato whitefly	Bemisia tabaci	strict	widely fixed whitefly pest common name
+tobacco whitefly	Bemisia tabaci	strict	widely fixed whitefly pest common name
+cotton bollworm	Helicoverpa armigera	strict	widely fixed crop pest common name
+pink bollworm	Pectinophora gossypiella	strict	widely fixed cotton pest common name
+Asian corn borer	Ostrinia furnacalis	strict	widely fixed crop pest common name
+European corn borer	Ostrinia nubilalis	strict	widely fixed crop pest common name
+oriental armyworm	Mythimna separata	strict	widely fixed crop pest common name
+black cutworm	Agrotis ipsilon	strict	widely fixed crop pest common name
+diamondback moth larvae	Plutella xylostella	strict	life stage phrase variant
+fall armyworm larvae	Spodoptera frugiperda	strict	life stage phrase variant
+beet armyworm larvae	Spodoptera exigua	strict	life stage phrase variant
+pink bollworm larvae	Pectinophora gossypiella	strict	life stage phrase variant
+cotton bollworm larvae	Helicoverpa armigera	strict	life stage phrase variant
+southern green stink bug	Nezara viridula	strict	widely fixed stink bug common name
+brown marmorated stink bug	Halyomorpha halys	strict	widely fixed stink bug common name
+green rice leafhopper	Nephotettix cincticeps	strict	widely fixed rice leafhopper common name
+rice leaf folder	Cnaphalocrocis medinalis	strict	widely fixed rice pest common name
+rice leaffolder	Cnaphalocrocis medinalis	strict	spelling variant of rice leaf folder
+striped stem borer	Chilo suppressalis	strict	widely fixed rice pest common name
+rice striped stem borer	Chilo suppressalis	strict	phrase variant of striped stem borer
+yellow stem borer	Scirpophaga incertulas	strict	widely fixed rice pest common name
+rice water weevil	Lissorhoptrus oryzophilus	strict	widely fixed rice pest common name
+western corn rootworm	Diabrotica virgifera	strict	widely fixed crop pest common name
+Mexican bean beetle	Epilachna varivestis	strict	widely fixed crop pest common name
+cabbage looper	Trichoplusia ni	strict	widely fixed crop pest common name
+soybean looper	Chrysodeixis includens	strict	widely fixed crop pest common name
+cabbage aphid	Brevicoryne brassicae	strict	widely fixed aphid pest common name
+pea aphid	Acyrthosiphon pisum	strict	widely fixed aphid pest common name
+Russian wheat aphid	Diuraphis noxia	strict	widely fixed aphid pest common name
+bird cherry-oat aphid	Rhopalosiphum padi	strict	widely fixed aphid pest common name
+bird cherry oat aphid	Rhopalosiphum padi	strict	spelling variant of bird cherry-oat aphid
+greenbug	Schizaphis graminum	strict	widely fixed aphid pest common name
+English grain aphid	Sitobion avenae	strict	widely fixed aphid pest common name
+melon aphid	Aphis gossypii	strict	common synonym of cotton aphid
+cowpea aphid	Aphis craccivora	strict	widely fixed aphid pest common name
+black bean aphid	Aphis fabae	strict	widely fixed aphid pest common name
+peach-potato aphid	Myzus persicae	strict	common synonym of green peach aphid
+peach potato aphid	Myzus persicae	strict	spelling variant of peach-potato aphid
+citrus red mite	Panonychus citri	strict	widely fixed mite pest common name
+European red mite	Panonychus ulmi	strict	widely fixed mite pest common name
+carmine spider mite	Tetranychus cinnabarinus	strict	widely fixed mite pest common name
+kanzawa spider mite	Tetranychus kanzawai	strict	widely fixed mite pest common name
+western predatory mite	Galendromus occidentalis	strict	widely fixed mite common name
+Varroa mite	Varroa destructor	strict	common name in apiculture resistance papers
+cattle tick	Rhipicephalus microplus	strict	widely fixed livestock tick common name
+southern cattle tick	Rhipicephalus microplus	strict	common synonym in resistance papers
+brown dog tick	Rhipicephalus sanguineus	strict	widely fixed tick common name
+lone star tick	Amblyomma americanum	strict	widely fixed tick common name
+blacklegged tick	Ixodes scapularis	strict	widely fixed tick common name
+black-legged tick	Ixodes scapularis	strict	spelling variant of blacklegged tick
+western blacklegged tick	Ixodes pacificus	strict	widely fixed tick common name
+yellow fever mosquito	Aedes aegypti	strict	widely fixed mosquito common name
+Asian tiger mosquito	Aedes albopictus	strict	widely fixed mosquito common name
+southern house mosquito	Culex quinquefasciatus	strict	widely fixed mosquito common name
+northern house mosquito	Culex pipiens	strict	widely fixed mosquito common name
+common house mosquito	Culex pipiens	strict	widely fixed mosquito common name
+western encephalitis mosquito	Culex tarsalis	strict	widely fixed mosquito common name
+African malaria mosquito	Anopheles gambiae	strict	more specific common name
+Asian malaria mosquito	Anopheles stephensi	strict	widely fixed vector common name
+cat flea	Ctenocephalides felis	strict	widely fixed flea common name
+dog flea	Ctenocephalides canis	strict	widely fixed flea common name
+body louse	Pediculus humanus	strict	widely fixed louse common name
+human body louse	Pediculus humanus	strict	phrase variant of body louse
+red flour beetle	Tribolium castaneum	strict	widely fixed stored-product pest common name
+confused flour beetle	Tribolium confusum	strict	widely fixed stored-product pest common name
+lesser grain borer	Rhyzopertha dominica	strict	widely fixed stored-product pest common name
+rice weevil	Sitophilus oryzae	strict	widely fixed stored-product pest common name
+maize weevil	Sitophilus zeamais	strict	widely fixed stored-product pest common name
+granary weevil	Sitophilus granarius	strict	widely fixed stored-product pest common name
+sawtoothed grain beetle	Oryzaephilus surinamensis	strict	widely fixed stored-product pest common name
+saw-toothed grain beetle	Oryzaephilus surinamensis	strict	spelling variant of sawtoothed grain beetle
+cigarette beetle	Lasioderma serricorne	strict	widely fixed stored-product pest common name
+tobacco beetle	Lasioderma serricorne	strict	common synonym of cigarette beetle
+khapra beetle	Trogoderma granarium	strict	widely fixed stored-product pest common name
+Mediterranean flour moth	Ephestia kuehniella	strict	widely fixed stored-product pest common name
+Indian meal moth	Plodia interpunctella	strict	widely fixed stored-product pest common name
+codling moth	Cydia pomonella	strict	widely fixed orchard pest common name
+oriental fruit moth	Grapholita molesta	strict	widely fixed orchard pest common name
+peach fruit moth	Carposina sasakii	strict	widely fixed orchard pest common name
+light brown apple moth	Epiphyas postvittana	strict	widely fixed orchard pest common name
+brown planthopper nymph	Nilaparvata lugens	strict	life stage phrase variant
+small brown planthopper nymph	Laodelphax striatellus	strict	life stage phrase variant
+white-backed planthopper nymph	Sogatella furcifera	strict	life stage phrase variant
+German cockroach nymph	Blattella germanica	strict	life stage phrase variant
+red palm weevil larvae	Rhynchophorus ferrugineus	strict	life stage phrase variant
+Colorado potato beetle larvae	Leptinotarsa decemlineata	strict	life stage phrase variant
+BPH	Nilaparvata lugens	strict	standard abbreviation for brown planthopper in rice pest literature
+SBPH	Laodelphax striatellus	strict	standard abbreviation for small brown planthopper in rice pest literature
+WBPH	Sogatella furcifera	strict	standard abbreviation for white-backed planthopper in rice pest literature
+DBM	Plutella xylostella	strict	standard abbreviation for diamondback moth in crop pest literature
+FAW	Spodoptera frugiperda	strict	standard abbreviation for fall armyworm in crop pest literature
+BAW	Spodoptera exigua	strict	standard abbreviation for beet armyworm in crop pest literature
+CPB	Leptinotarsa decemlineata	strict	standard abbreviation for Colorado potato beetle in crop pest literature
+RPW	Rhynchophorus ferrugineus	strict	standard abbreviation for red palm weevil in palm pest literature
+WFT	Frankliniella occidentalis	strict	standard abbreviation for western flower thrips in pest literature
+TSSM	Tetranychus urticae	strict	standard abbreviation for two-spotted spider mite in mite resistance literature
+SLW	Bemisia tabaci	strict	standard abbreviation for silverleaf whitefly in whitefly pest literature
+CPB larvae	Leptinotarsa decemlineata	strict	life-stage abbreviation phrase variant
+DBM larvae	Plutella xylostella	strict	life-stage abbreviation phrase variant
+FAW larvae	Spodoptera frugiperda	strict	life-stage abbreviation phrase variant
+BPH nymphs	Nilaparvata lugens	strict	life-stage abbreviation phrase variant
+SBPH nymphs	Laodelphax striatellus	strict	life-stage abbreviation phrase variant
+WBPH nymphs	Sogatella furcifera	strict	life-stage abbreviation phrase variant
+honey bee	Apis mellifera	strict	widely fixed apiculture pest/host common name; major insecticide-resistance research subject (neonicotinoids, Varroa control)
+honeybee	Apis mellifera	strict	spelling variant of honey bee
+Western honey bee	Apis mellifera	strict	more specific common name of honey bee
+tobacco cutworm	Spodoptera litura	strict	widely fixed crop pest common name; major Asian Spodoptera
+common cutworm	Spodoptera litura	strict	common synonym of tobacco cutworm
+cluster caterpillar	Spodoptera litura	strict	common synonym of tobacco cutworm
+corn earworm	Helicoverpa zea	strict	widely fixed crop pest common name; North American counterpart of H. armigera
+tomato fruitworm	Helicoverpa zea	strict	common synonym of corn earworm
+cotton bollworm (US)	Helicoverpa zea	context-dependent	"cotton bollworm in US literature refers to H. zea; in Asian/African literature usually H. armigera (see ambiguous entry ""bollworm"")"
+tomato leafminer	Tuta absoluta	strict	widely fixed crop pest common name; rapidly emerging since 2006
+South American tomato pinworm	Tuta absoluta	strict	common synonym of tomato leafminer
+Asian citrus psyllid	Diaphorina citri	strict	widely fixed citrus pest common name; major HLB (huanglongbing) vector
+spotted-wing drosophila	Drosophila suzukii	strict	widely fixed cherry/berry pest common name
+spotted wing drosophila	Drosophila suzukii	strict	spelling variant of spotted-wing drosophila
+vinegar fly	Drosophila melanogaster	strict	"preferred unambiguous common name; ""fruit fly"" alone is ambiguous"
+common fruit fly	Drosophila melanogaster	strict	common synonym of vinegar fly
+Mediterranean fruit fly	Ceratitis capitata	strict	widely fixed Tephritidae pest common name
+medfly	Ceratitis capitata	strict	standard short form of Mediterranean fruit fly
+tropical bed bug	Cimex hemipterus	strict	widely fixed urban pest common name; pairs with C. lectularius (common bed bug)
+Egyptian cotton leafworm	Spodoptera littoralis	strict	widely fixed Mediterranean/Middle East crop pest common name
+tarnished plant bug	Lygus lineolaris	strict	widely fixed crop pest common name; primarily eastern North America
+western tarnished plant bug	Lygus hesperus	strict	widely fixed crop pest common name; western North America counterpart of L. lineolaris
+wheat midge	Sitodiplosis mosellana	strict	widely fixed cereal pest common name
+orange wheat blossom midge	Sitodiplosis mosellana	strict	common synonym of wheat midge
+striped flea beetle	Phyllotreta striolata	strict	widely fixed crucifer pest common name
+crucifer flea beetle	Phyllotreta cruciferae	strict	widely fixed crucifer pest common name
+bed bug	Cimex lectularius|Cimex hemipterus	ambiguous	bed bug alone is ambiguous between common (C. lectularius, temperate) and tropical (C. hemipterus); requires geographic/host context to disambiguate
+fruit fly	Drosophila spp.|Tephritidae spp.	ambiguous	fruit fly alone is ambiguous between Drosophila (vinegar flies, model genetics) and Tephritidae (Bactrocera/Ceratitis, true fruit flies); requires journal/topic context to disambiguate
+red mite	Panonychus ulmi|Panonychus citri|Dermanyssus gallinae	ambiguous	red mite alone is ambiguous: P. ulmi (apple), P. citri (citrus), or D. gallinae (poultry red mite); requires host crop context to disambiguate
+cattle tick ambiguous	Rhipicephalus microplus|Rhipicephalus appendiculatus	ambiguous	"renamed from duplicate ""cattle tick"" so strict R. microplus mapping is not overwritten; use only for manual review notes"
+bollworm	Helicoverpa armigera|Helicoverpa zea	ambiguous	bollworm alone is ambiguous: H. zea in US literature, H. armigera in Asian/African literature; requires geographic/journal context to disambiguate
+ECB	Ostrinia nubilalis	strict	standard abbreviation for European corn borer
+ACB	Ostrinia furnacalis	strict	standard abbreviation for Asian corn borer
+OFM	Grapholita molesta	strict	standard abbreviation for oriental fruit moth
+BMSB	Halyomorpha halys	strict	standard abbreviation for brown marmorated stink bug
+ACP	Diaphorina citri	strict	standard abbreviation for Asian citrus psyllid
+SWD	Drosophila suzukii	strict	standard abbreviation for spotted-wing drosophila
+soybean aphid	Aphis glycines	strict	widely fixed crop pest common name
+soybean aphids	Aphis glycines	strict	plural variant of soybean aphid
+western corn rootworms	Diabrotica virgifera	strict	plural variant of western corn rootworm
+European red mites	Panonychus ulmi	strict	plural variant of European red mite
+cattle ticks	Rhipicephalus microplus	strict	plural variant of cattle tick in resistance papers
+annual bluegrass weevil	Listronotus maculicollis	strict	widely fixed turfgrass pest common name
+annual bluegrass weevils	Listronotus maculicollis	strict	plural variant of annual bluegrass weevil
+housefly	Musca domestica	strict	spelling variant of house fly
+houseflies	Musca domestica	strict	plural variant of house fly
+cotton leafworm	Spodoptera littoralis	strict	widely fixed crop pest common name
+cotton leafworms	Spodoptera littoralis	strict	plural variant of cotton leafworm
+tobacco budworm	Heliothis virescens	strict	widely fixed crop pest common name
+tobacco budworms	Heliothis virescens	strict	plural variant of tobacco budworm
+onion thrips	Thrips tabaci	strict	widely fixed Allium pest common name
+greenhouse whitefly	Trialeurodes vaporariorum	strict	widely fixed greenhouse pest common name
+greenhouse whiteflies	Trialeurodes vaporariorum	strict	plural variant of greenhouse whitefly
+olive fruit fly	Bactrocera oleae	strict	widely fixed olive pest common name
+olive fruit flies	Bactrocera oleae	strict	plural variant of olive fruit fly
+northern corn rootworm	Diabrotica barberi	strict	widely fixed North American corn pest common name
+northern corn rootworms	Diabrotica barberi	strict	plural variant of northern corn rootworm
+chilli thrips	Scirtothrips dorsalis	strict	widely fixed pest common name
+chili thrips	Scirtothrips dorsalis	strict	spelling variant of chilli thrips
+american cockroach	Periplaneta americana	strict	widely fixed urban pest common name
+melon thrips	Thrips palmi	strict	widely fixed vegetable pest common name
+cotton mealybug	Phenacoccus solenopsis	strict	widely fixed crop pest common name
+cotton mealybugs	Phenacoccus solenopsis	strict	plural variant of cotton mealybug
+african armyworm	Spodoptera exempta	strict	widely fixed crop pest common name
+vegetable leafminer	Liriomyza sativae	strict	widely fixed vegetable pest common name
+vegetable leafminers	Liriomyza sativae	strict	plural variant of vegetable leafminer
+head louse	Pediculus humanus	strict	widely fixed louse common name; mapped to species level
+head lice	Pediculus humanus	strict	plural variant of head louse; mapped to species level
